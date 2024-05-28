@@ -1,0 +1,49 @@
+How to run the project
+"npm run dev"
+
+
+ChatEngine Web page project
+
+https://chatengine.io/projects/3a6df9bc-9a9f-425e-8dec-4d78ace2ba94#settings
+
+
+
+
+
+
+The project made from this BLOG
+https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
+
+
+---------------SETUP the project:------------
+"npm init"
+ in the backend folder to get package.json file
+package.json - will describe nodejs server with meta data
+
+install NPM dependencies to make this nodejs server work
+Express - Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes.http framework to running node servers
+cors - Cross-Origin Resource Sharing in Node. js is a mechanism by which a front-end client can make requests for resources to an external back-end server. (call the server from anywhere on the internet) 
+axios - Axios is a popular JavaScript library used for making HTTP requests from a web browser or Node. js. It simplifies the process of sending asynchronous HTTP requests to a server, and also handles the response. to make API calls to chatengine.io
+
+"npm install express cors axios"
+
+nodemon - which runs our node.js in developer mode
+
+To make nodemon run on node server:-
+
+"scripts": {
+    "start": "nodemon index.js"
+  },
+
+
+ "npm create vite@latest"
+
+Need to install the following packages:
+create-vite@5.2.3
+Ok to proceed? (y)
+√ Project name: ... frontend
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+cd frontend
+"npm install"
