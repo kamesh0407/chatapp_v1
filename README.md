@@ -1,14 +1,20 @@
-# Chatapp
+<div align="center">
+   <centre><h1>ChatApp🗨</centre><br />
+      </div>
 
-## Video Demonstration
 
-### Link to Video
-[Chatapp Video](https://github.com/kamesh0407/chatapp_v1/blob/main/chatapp.mp4)
+  <div align="center">
+   <centre>Users can have a Real-Time Conversation📱 with their Friends and Members👥</centre><br />
+      </div>
+ 
+     
+<br>
+     
 
-### Embedded Video
-<p align="center">
-  <video width="600" controls>
-    <source src="https://github.com/kamesh0407/chatapp_v1/blob/main/chatapp.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+
+
+https://github.com/kamesh0407/chatapp_v1/assets/108885723/8b022f1d-d10b-40ee-b2d7-89f19744163c
+
+
+
+
